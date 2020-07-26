@@ -1,2 +1,2 @@
-# studen-registrations-
+# studen-registrations-page
 pratical exam
